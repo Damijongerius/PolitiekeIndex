@@ -1,0 +1,24 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/.tmp/
+frontend/dist/
+
+# Environment & OS
+.env
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Large temporary files
+scratch/
+*.tmp

@@ -1,0 +1,15 @@
+services:
+  politiekkompas:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: politiekkompas:latest
+    container_name: politiekkompas
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persistent volume for ChromaDB embeddings and PDFs
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped

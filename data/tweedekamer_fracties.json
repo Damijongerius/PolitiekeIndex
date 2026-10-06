@@ -1,0 +1,1157 @@
+[
+  {
+    "name": "Democraten 66",
+    "seats": 26,
+    "leader": "Jan Paternotte",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/2690bccc-5463-459a-b1df-cb93e222b348.jpg?itok=JDx1h9k7",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/2025-06/D66_CMYK.png?itok=nd7YyWgF",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/d66",
+    "full_title": "D66 (Democraten 66)",
+    "website": "http://www.d66.nl",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Jan Paternotte",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/paternotte-jm-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/2690bccc-5463-459a-b1df-cb93e222b348.jpg?itok=JDx1h9k7",
+        "role": "D66"
+      },
+      {
+        "name": "Joost Sneller",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/sneller-jc-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/da9f33b0-80ca-49eb-a1ec-def3b46538d9.jpg?itok=jqPMB0IW",
+        "role": "D66"
+      },
+      {
+        "name": "Wieke Paulusma",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/paulusma-w-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d89044ef-b7df-4a15-be10-d342fe381664.jpg?itok=0h1K8-EL",
+        "role": "D66"
+      },
+      {
+        "name": "Anne-Marijke Podt",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/podt-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/950c21d2-8a14-406d-b3af-877360bbd0ab.jpg?itok=F90EQhx7",
+        "role": "D66"
+      },
+      {
+        "name": "Hanneke van der Werf",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/werf-jj-van-der-d66-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6a54c095-9872-4322-81be-114b74233d40.jpg?itok=b3hh-6af",
+        "role": "D66"
+      },
+      {
+        "name": "Mpanzu Bamenga",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bamenga-p-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d4b77771-411c-4d3d-a893-767f38e07c67.jpg?itok=K7kKsTz1",
+        "role": "D66"
+      },
+      {
+        "name": "Ilana Rooderkerk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/rooderkerk-i-d66-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c055003b-034e-4d30-ae78-dd271b00dcbf.jpg?itok=FKJkgfch",
+        "role": "D66"
+      },
+      {
+        "name": "Marijke Synhaeve",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/synhaeve-m-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/14642402-bfc5-4471-9246-7fb6742a35e8.jpg?itok=PyvXblP2",
+        "role": "D66"
+      },
+      {
+        "name": "Felix Klos",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klos-fco-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/3817ddd8-9797-4b14-8d75-77c909b711e0.jpg?itok=lOUb9NsZ",
+        "role": "D66"
+      },
+      {
+        "name": "Marc Vervuurt",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vervuurt-m-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d36d9afd-613a-4dbe-bfef-785967a9b807.jpg?itok=1u7f7Arv",
+        "role": "D66"
+      },
+      {
+        "name": "Marieke Vellinga-Beemsterboer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vellinga-beemsterboer-mca-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c4082506-df19-49de-a2e2-ccee0c5c7a81.jpg?itok=xEyuMZPM",
+        "role": "D66"
+      },
+      {
+        "name": "Ouafa Oualhadj",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/oualhadj-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a8ec9ff1-6a91-4063-9a8d-c3af07a11a0d.jpg?itok=ye2M978v",
+        "role": "D66"
+      },
+      {
+        "name": "Stephan Neijenhuis",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/neijenhuis-sj-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/707d820c-5453-4ca5-a193-15e40c1d3f98.jpg?itok=hK6e_tsA",
+        "role": "D66"
+      },
+      {
+        "name": "Henk-Jan Oosterhuis",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/oosterhuis-h-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/5f70fd14-3d7a-4936-9667-d76b0d524a61.jpg?itok=VgbmfnbK",
+        "role": "D66"
+      },
+      {
+        "name": "Jan Schoonis",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/schoonis-j-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/05c9a6b8-4642-449a-9a1e-1df4aca70b10.jpg?itok=nzK0JUUh",
+        "role": "D66"
+      },
+      {
+        "name": "Robert van Asten",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/asten-rj-van-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6616f1dc-73e5-4753-b259-c10856ee7e4d.jpg?itok=XuTxch9M",
+        "role": "D66"
+      },
+      {
+        "name": "Ulaş Köse",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kose-ui-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/12d92cdf-9eb4-4e5c-8d1b-b2fa2b00a8ab.jpg?itok=twnpbqgr",
+        "role": "D66"
+      },
+      {
+        "name": "Sarah El Boujdaini",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/boujdaini-s-el-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/ffcac8a5-952b-42e8-975a-09860c123d3f.jpg?itok=7q_PRTQs",
+        "role": "D66"
+      },
+      {
+        "name": "Renilde Huizenga",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/huizenga-ra-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/67261924-770e-4746-88d3-22e85bf217ed.jpg?itok=l_pLxWwY",
+        "role": "D66"
+      },
+      {
+        "name": "Dion Huidekooper",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/huidekooper-dj-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8a152678-92d8-41f4-9002-62ee62d2f7b0.jpg?itok=_9RToGH9",
+        "role": "D66"
+      },
+      {
+        "name": "Heera Dijk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-hlo-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0079c245-1bd8-45fb-8cb8-afa4b7bc5d36.jpg?itok=wYue2njj",
+        "role": "D66"
+      },
+      {
+        "name": "Anouschka Biekman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/biekman-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/4e24b3c9-966c-48bf-947d-231d3feb649d.jpg?itok=IVm3bGgP",
+        "role": "D66"
+      },
+      {
+        "name": "Fatimazhra Belhirch",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/belhirch-f-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/59f4fe08-4b7e-42a0-9551-082b07c5945a.jpg?itok=FJETKL8u",
+        "role": "D66"
+      },
+      {
+        "name": "Mahjoub Mathlouti",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mathlouti-m-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/385c9a11-79c5-428f-9d84-72a49c94bb9a.jpg?itok=p6AFo22Q",
+        "role": "D66"
+      },
+      {
+        "name": "Michelle Jagtenberg",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jagtenberg-mh-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/dc160d87-fc55-486d-9b55-a307330e4da0.jpg?itok=pMC4HiD0",
+        "role": "D66"
+      },
+      {
+        "name": "Robin van Leijen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/leijen-rm-van-d66",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/7a799770-dff0-40ef-9d63-c0a8ed5b0a7a.jpg?itok=kysVCURo",
+        "role": "D66"
+      }
+    ]
+  },
+  {
+    "name": "Volkspartij voor Vrijheid en Democratie",
+    "seats": 22,
+    "leader": "Ruben Brekelmans",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e5c4753f-d2d8-4a4a-ae9d-62118892a731.jpg?itok=3MWLH7sT",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/vvd_standaard_1080x1080_rond.png?itok=QGuAFhC5",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/vvd",
+    "full_title": "VVD (Volkspartij voor Vrijheid en Democratie)",
+    "website": "http://www.vvd.nl",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Bente Becker",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/becker-b-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a962ffcb-a300-45e1-8850-70c7173c233e.jpg?itok=fZ-pnZFw",
+        "role": "VVD"
+      },
+      {
+        "name": "Peter de Groot",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/groot-pc-de-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a0b48551-42b7-4c55-9556-6b997d978ff2.jpg?itok=wFgrNOpA",
+        "role": "VVD"
+      },
+      {
+        "name": "Daan de Kort",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kort-ahj-de-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8767e9de-869e-4e8a-940f-1a63d15eab3c.jpg?itok=Dk9ot04d",
+        "role": "VVD"
+      },
+      {
+        "name": "Ulysse Ellian",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ellian-u-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/ea21d788-7cfe-41ff-b22f-0664397139af.jpg?itok=HZz3s-VG",
+        "role": "VVD"
+      },
+      {
+        "name": "Ingrid Michon-Derkzen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/michon-derkzen-ijm-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/973da897-66c7-4010-a98d-505e0e97a60c.jpg?itok=wz6AGfq-",
+        "role": "VVD"
+      },
+      {
+        "name": "Thom van Campen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/campen-aah-van-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/bf494e35-c009-4c74-a5c6-3cb2cd26bb51.jpg?itok=ev_odCvG",
+        "role": "VVD"
+      },
+      {
+        "name": "Queeny Rajkowski",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/rajkowski-qm-vvd-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/4bf69aa9-29a7-44db-b7ee-8bfa40e343dd.jpg?itok=NceKhXMU",
+        "role": "VVD"
+      },
+      {
+        "name": "Ruben Brekelmans",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/brekelmans-rp-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e5c4753f-d2d8-4a4a-ae9d-62118892a731.jpg?itok=3MWLH7sT",
+        "role": "VVD"
+      },
+      {
+        "name": "Ruud Verkuijlen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/verkuijlen-r-vvd-1",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/13d5095e-c5df-4cbb-a2f4-c0bb142e9397.jpg?itok=fU5ltBcj",
+        "role": "VVD"
+      },
+      {
+        "name": "Claire Martens-America",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/martens-america-c-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/059453a7-a169-477c-9f89-54dda55b6d40.jpg?itok=kETOUDpV",
+        "role": "VVD"
+      },
+      {
+        "name": "Arend Kisteman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kisteman-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e0ccfbe3-9f51-4eaa-8ed6-c1ba3f6236b5.jpg?itok=uMurONwp",
+        "role": "VVD"
+      },
+      {
+        "name": "Wendy van Eijk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/eijk-wpj-van-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/05ca01ed-8f7f-4e1c-850e-3a480c38e775.jpg?itok=QTO5kz7T",
+        "role": "VVD"
+      },
+      {
+        "name": "Wim Meulenkamp",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/meulenkamp-wjh-vvd-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/de1735dc-a542-4e58-8c06-9effd9005686.jpg?itok=qGIoQ5HR",
+        "role": "VVD"
+      },
+      {
+        "name": "Bart Bikkers",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bikkers-bt-vvd-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d081e81a-72b1-4c57-9d25-2f34292da0cf.jpg?itok=R0aBnHjL",
+        "role": "VVD"
+      },
+      {
+        "name": "Martin de Beer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beer-mee-de-vvd-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6edaeec8-fad8-4c2c-8103-7aae8594e772.jpg?itok=-_L-0k7i",
+        "role": "VVD"
+      },
+      {
+        "name": "Renate den Hollander",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hollander-r-den-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/51036c88-5a8f-4842-8867-0a460bbb611e.jpg?itok=t4CoofDv",
+        "role": "VVD"
+      },
+      {
+        "name": "Björn Schutz",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/schutz-ba-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/83886cc3-def7-45bb-bea6-e10200c1cd9e.jpg?itok=0RxkHeDX",
+        "role": "VVD"
+      },
+      {
+        "name": "Jurgen Nobel",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nobel-jnj-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/28982db2-a196-4026-9cfb-43aace37f150.jpg?itok=N1OjiAXu",
+        "role": "VVD"
+      },
+      {
+        "name": "Hilde Wendel",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wendel-h-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/4b6348d0-bf6d-4086-983b-48eb3834efff.jpg?itok=6s-gHXST",
+        "role": "VVD"
+      },
+      {
+        "name": "Nicole Maes",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/maes-ncj-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/ebb3123c-6520-45ad-9045-d78dd5313b30.jpg?itok=jM1bFXAg",
+        "role": "VVD"
+      },
+      {
+        "name": "Alisha Müller",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/muller-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/3b3c7923-b604-4902-97c1-210aa85182c1.jpg?itok=wms5_pLv",
+        "role": "VVD"
+      },
+      {
+        "name": "Erik van der Maas",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/maas-ej-van-der-vvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/7da5d1c6-58a0-4a40-89c0-cc5fc3aff9c4.jpg?itok=cV4MAz50",
+        "role": "VVD"
+      }
+    ]
+  },
+  {
+    "name": "Progressief Nederland",
+    "seats": 20,
+    "leader": "Jesse Klaver",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0d036fcf-a456-4798-9b76-3f44eb74a451.jpg?itok=aXU5nhJH",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/2026-06/PRO-Logo.png?itok=Nu3gvDyA",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/pro",
+    "full_title": "PRO (Progressief Nederland)",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Jesse Klaver",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klaver-jf-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0d036fcf-a456-4798-9b76-3f44eb74a451.jpg?itok=aXU5nhJH",
+        "role": "PRO"
+      },
+      {
+        "name": "Lisa Westerveld",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/westerveld-em-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c7822b58-103f-4612-87ef-648be97192c6.jpg?itok=q4DBo-VB",
+        "role": "PRO"
+      },
+      {
+        "name": "Tom van der Lee",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lee-tmt-van-der-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/75a44c3a-5914-4c8e-9ca4-d987853f5844.jpg?itok=Gj9JsqVd",
+        "role": "PRO"
+      },
+      {
+        "name": "Suzanne Kröger",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kroger-sc-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/89d70a20-bd10-46ed-866a-2c79362a0559.jpg?itok=Te6ZK3UA",
+        "role": "PRO"
+      },
+      {
+        "name": "Mohammed Mohandis",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mohandis-m-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b7a52679-bac9-4e00-9dfd-06a22a7cf088.jpg?itok=XgJTTYnj",
+        "role": "PRO"
+      },
+      {
+        "name": "Laura Bromet",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bromet-l-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/ccea26dd-dcae-4174-8945-ec5cb568e951.jpg?itok=HqG2uQ60",
+        "role": "PRO"
+      },
+      {
+        "name": "Habtamu de Hoop",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hoop-he-de-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e70c3ee3-cca2-4521-abea-b124dcec0952.jpg?itok=nXdS2MMX",
+        "role": "PRO"
+      },
+      {
+        "name": "Barbara Kathmann",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kathmann-bc-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9e79de98-e914-4dc8-8dc7-6d7cb09b93d7.jpg?itok=6p1J24Bo",
+        "role": "PRO"
+      },
+      {
+        "name": "Kati Piri",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/piri-kp-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a437e923-725f-415e-a01d-5588a7af933e.jpg?itok=qEWswD4_",
+        "role": "PRO"
+      },
+      {
+        "name": "Songül Mutluer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mutluer-s-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9f855643-68a2-409e-b4fe-81b92547212a.jpg?itok=jZroAO8g",
+        "role": "PRO"
+      },
+      {
+        "name": "Julian Bushoff",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bushoff-tj-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a824c21d-055a-49ed-a060-a1c7af3262df.jpg?itok=o-XG1u2B",
+        "role": "PRO"
+      },
+      {
+        "name": "Mikal Tseggai",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/tseggai-m-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b8e78559-8f69-4ec6-89ce-17645a5eecdb.jpg?itok=TA2fDaVo",
+        "role": "PRO"
+      },
+      {
+        "name": "Mariëtte Patijn",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/patijn-mh-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/3dd43fe1-c99a-4826-b08f-4ed3fc0dd9ba.jpg?itok=Zc91-alr",
+        "role": "PRO"
+      },
+      {
+        "name": "Luc Stultiens",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/stultiens-lcj-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/7a727f46-0e36-493f-8779-736d3250fb27.jpg?itok=Z3RlEcnf",
+        "role": "PRO"
+      },
+      {
+        "name": "Ani Zalinyan",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/zalinyan-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6f8efc5e-726c-4919-98d8-c6f1cd6b0b2b.jpg?itok=fkClCdqb",
+        "role": "PRO"
+      },
+      {
+        "name": "Sjoukje van Oosterhout",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/oosterhout-van-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8f38a474-1b0a-4fcc-a727-28531df173a6.jpg?itok=qj27EuAB",
+        "role": "PRO"
+      },
+      {
+        "name": "Marjolein Moorman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/moorman-m-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d32c6620-c63d-41d7-8762-a1dc31ecb882.jpg?itok=UA-18ioy",
+        "role": "PRO"
+      },
+      {
+        "name": "Fatihya Abdi",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/abdi-f-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/68d64b36-9e16-4f0f-9a78-6f22b3aa093a.jpg?itok=uf-GhjR6",
+        "role": "PRO"
+      },
+      {
+        "name": "Lisa Vliegenthart",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vliegenthart-l-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a6a6861d-5972-4650-bc4f-38ba958c6bdc.jpg?itok=VJbthV16",
+        "role": "PRO"
+      },
+      {
+        "name": "Wimar Bolhuis",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bolhuis-wd-pro",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/f94a1293-6e79-40b5-b796-5ad73d1d6aff.jpg?itok=GWLhinfk",
+        "role": "PRO"
+      }
+    ]
+  },
+  {
+    "name": "Partij voor de Vrijheid",
+    "seats": 19,
+    "leader": "Geert Wilders",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6d33b9bc-7d3a-4a60-b2d7-c2b70cd11ab1.jpg?itok=craudyNs",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/field_uploads/Logo%20PVV_tcm181-113708.jpg?itok=k1sh8gyG",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/partij_voor_de_vrijheid",
+    "full_title": "PVV (Partij voor de Vrijheid)",
+    "website": "http://www.partijvoordevrijheid.nl",
+    "email": "Pvv.publiek@tweedekamer.nl",
+    "phone": null,
+    "members": [
+      {
+        "name": "Geert Wilders",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wilders-g-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6d33b9bc-7d3a-4a60-b2d7-c2b70cd11ab1.jpg?itok=craudyNs",
+        "role": "PVV"
+      },
+      {
+        "name": "Martin Bosma",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bosma-m-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/034829b1-019f-4ee2-8961-83e82ac2eaa3.jpg?itok=amKtVySh",
+        "role": "PVV"
+      },
+      {
+        "name": "Raymond de Roon",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/roon-r-de-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c60c655f-40ba-47b0-8e93-a2c8d1ff4743.jpg?itok=mlZPd8IO",
+        "role": "PVV"
+      },
+      {
+        "name": "Dion Graus",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/graus-djg-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/819764fa-3a17-467b-8327-30899ed083b6.jpg?itok=rG0xGzE5",
+        "role": "PVV"
+      },
+      {
+        "name": "Tony van Dijck",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijck-apc-van-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a396ae20-6309-456b-a5ae-e4068dea8a67.jpg?itok=vdBHEMa3",
+        "role": "PVV"
+      },
+      {
+        "name": "Alexander Kops",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kops-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/77c541d2-49e3-483f-869d-134df420c5ea.jpg?itok=hXwFg6Ik",
+        "role": "PVV"
+      },
+      {
+        "name": "Edgar Mulder",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mulder-e-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/48d02bab-281c-4bd0-8a50-26bf90a38cc0.jpg?itok=0gwPOKEL",
+        "role": "PVV"
+      },
+      {
+        "name": "Vicky Maeijer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/maeijer-v-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e5f316f0-e4e7-4cf0-a064-ed9321737487.jpg?itok=09a0ml5X",
+        "role": "PVV"
+      },
+      {
+        "name": "Emiel van Dijk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-e-van-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/81552958-ef83-4fab-8a92-6e5b1975c9ef.jpg?itok=lgMxhN_X",
+        "role": "PVV"
+      },
+      {
+        "name": "Elmar Vlottes",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vlottes-e-pvv-0",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/71653caa-dc3a-4441-80cb-34f6a737ee1e.jpg?itok=tLrwryuD",
+        "role": "PVV"
+      },
+      {
+        "name": "Rachel van Meetelen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/meetelen-rf-van-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0f5bdaad-ea3e-4d01-a85f-46010d9fb514.jpg?itok=gR6fdJVN",
+        "role": "PVV"
+      },
+      {
+        "name": "Jeremy Mooiman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/mooiman-j-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b4bbefe3-6926-4d81-b8a4-b1bb6ae2e3c6.jpg?itok=OI_MeNuF",
+        "role": "PVV"
+      },
+      {
+        "name": "Maikel Boon",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/boon-mch-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0004fa63-2652-43fe-9866-4130ca4652d8.jpg?itok=R0Kf9Jfn",
+        "role": "PVV"
+      },
+      {
+        "name": "Marina Vondeling",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vondeling-m-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/f3ebacbe-ae1d-4ee9-bf9f-cef7d9e0f489.jpg?itok=qQnxlE-I",
+        "role": "PVV"
+      },
+      {
+        "name": "Chris Jansen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jansen-ca-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/3c96ed5d-f7bf-4cae-9ec7-a5a29f5299da.jpg?itok=C9SrQJhi",
+        "role": "PVV"
+      },
+      {
+        "name": "Marjolein Faber",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/faber-mhm-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/fe1727e3-35bc-4b62-869b-be60b0c861f7.jpg?itok=KNMy5Dty",
+        "role": "PVV"
+      },
+      {
+        "name": "Sebastiaan Stöteler",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/stoteler-tsm-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d58f3da8-94f6-4b03-ac9f-67ec50e12bf3.jpg?itok=FQzTT_SZ",
+        "role": "PVV"
+      },
+      {
+        "name": "Annette Raijer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/raijer-aj-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/50b2f0b4-0fd9-473e-bcde-17bdff81fc73.jpg?itok=BKW5SwYG",
+        "role": "PVV"
+      },
+      {
+        "name": "Erwin Prickaertz",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/prickaertz-ec-pvv",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e48a9b77-8c42-4369-a967-7262e8facb29.jpg?itok=vlGq_3F4",
+        "role": "PVV"
+      }
+    ]
+  },
+  {
+    "name": "Christen-Democratisch Appèl",
+    "seats": 18,
+    "leader": "Henri Bontenbal",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/942a29b8-057f-4dba-a8cd-3c35e5a81aaf.jpg?itok=eeFt6CWv",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/logo_cda.jpg?itok=cz5TJZrN",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/cda",
+    "full_title": "CDA (Christen-Democratisch Appèl)",
+    "website": "http://www.cda.nl",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Inge van Dijk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-i-van-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/1ee767b9-67f3-47e5-9e28-045da1c37b05.jpg?itok=S_I_F_ZI",
+        "role": "CDA"
+      },
+      {
+        "name": "Henri Bontenbal",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bontenbal-h-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/942a29b8-057f-4dba-a8cd-3c35e5a81aaf.jpg?itok=eeFt6CWv",
+        "role": "CDA"
+      },
+      {
+        "name": "Harmen Krul",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/krul-hm-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/36ed934d-56c7-4903-a0a8-a9f186d5a96f.jpg?itok=npXyaf5Q",
+        "role": "CDA"
+      },
+      {
+        "name": "Jantine Zwinkels",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/zwinkels-jm-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/1b823081-5a38-41cf-9d21-63a635df7b06.jpg?itok=T1WJuB5N",
+        "role": "CDA"
+      },
+      {
+        "name": "Hanneke Steen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/steen-hs-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/4acb1921-a68d-40af-9f14-35112c020da5.jpg?itok=AIInkFeZ",
+        "role": "CDA"
+      },
+      {
+        "name": "Jeltje Straatman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/straatman-jcg-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a4e91a4e-3bc4-4dbc-af65-f5770d2eafcb.jpg?itok=pmpP7Z1u",
+        "role": "CDA"
+      },
+      {
+        "name": "Eveline Tijmstra",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/tijmstra-es-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/f177383d-2044-4a7b-b6bb-2b45ff30e972.jpg?itok=0lyhLMA4",
+        "role": "CDA"
+      },
+      {
+        "name": "Elles van Ark",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ark-afj-van-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/60a80b41-2618-47c0-8212-2feb0f67c221.jpg?itok=heSvWo8M",
+        "role": "CDA"
+      },
+      {
+        "name": "Tijs van den Brink",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/brink-ta-van-den-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/34fc7be9-6938-4163-8c47-f95c5f87e6b5.jpg?itok=BWJz8A0W",
+        "role": "CDA"
+      },
+      {
+        "name": "Maes van Lanschot",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lanschot-mrh-van-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/dc8f53b8-8247-4797-908d-fa11cb4116e6.jpg?itok=bkp7mxR8",
+        "role": "CDA"
+      },
+      {
+        "name": "Judith Bühler",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/buhler-jglm-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a9b2e7ac-3f50-4f60-bea6-4d78d3d2aefa.jpg?itok=Jq2MU2hB",
+        "role": "CDA"
+      },
+      {
+        "name": "Jan Arie Koorevaar",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/koorevaar-jc-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/48108814-4f16-4de8-85b2-e20e75294676.jpg?itok=SqOY-I4g",
+        "role": "CDA"
+      },
+      {
+        "name": "Henk Jumelet",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/jumelet-hg-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/de44b333-86c1-4af7-9439-a0c186d6f2e3.jpg?itok=KrOM497N",
+        "role": "CDA"
+      },
+      {
+        "name": "Sarath Hamstra",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hamstra-s-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c9f8c464-6703-49e3-96af-366d76b161f6.jpg?itok=OuvUWYu1",
+        "role": "CDA"
+      },
+      {
+        "name": "Luciënne Boelsma-Hoekstra",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/boelsma-hoekstra-l-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/80d02106-9cf3-473d-9b4f-3951f48f57ef.jpg?itok=s_Fz6_jT",
+        "role": "CDA"
+      },
+      {
+        "name": "Etkin Armut",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/armut-e-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/e71290ca-7a53-4466-889b-fe1d113005ec.jpg?itok=4v94h4O4",
+        "role": "CDA"
+      },
+      {
+        "name": "André Poortman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/poortman-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9039e7f6-d05b-40a7-b0af-9a4f98fc03ae.jpg?itok=-wABiwVj",
+        "role": "CDA"
+      },
+      {
+        "name": "Joris Lohman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lohman-jb-cda",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/3c429d84-fe37-4f2a-8d25-8bc2f764b870.jpg?itok=uRolGpJD",
+        "role": "CDA"
+      }
+    ]
+  },
+  {
+    "name": "JA21",
+    "seats": 9,
+    "leader": "Joost Eerdmans",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c6e26bd3-724f-45d3-93af-ef431e6fcd42.jpg?itok=cj1dddCu",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/ja21_logo_rgb.png?itok=HLv-womo",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/ja21",
+    "full_title": "JA21 (JA21)",
+    "website": "https://ja21.nl/",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Joost Eerdmans",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/eerdmans-bj-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/c6e26bd3-724f-45d3-93af-ef431e6fcd42.jpg?itok=cj1dddCu",
+        "role": "JA21"
+      },
+      {
+        "name": "Diederik Boomsma",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/boomsma-dt-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/5c9533b7-a733-480e-bb38-711e96129684.jpg?itok=bqOWwia9",
+        "role": "JA21"
+      },
+      {
+        "name": "Maarten Goudzwaard",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/goudzwaard-m-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/3322191a-8ca5-4a69-bb2f-d516086c28ae.jpg?itok=uJ2vQY9X",
+        "role": "JA21"
+      },
+      {
+        "name": "Simon Ceulemans",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ceulemans-s-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/1a02adff-bc47-4d06-bc1e-fec2d3ed193d.jpg?itok=74s2hbn5",
+        "role": "JA21"
+      },
+      {
+        "name": "Ranjith Clemminck",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/clemminck-drf-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/cf6c0969-6741-4130-bd75-ee65ad71ad1d.jpg?itok=VQaIHfL0",
+        "role": "JA21"
+      },
+      {
+        "name": "Ingrid Coenradie",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/coenradie-i-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a08790d3-915b-44d3-9556-6c53048917a0.jpg?itok=wkHxmoQv",
+        "role": "JA21"
+      },
+      {
+        "name": "Michiel Hoogeveen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hoogeveen-mp-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/6938f6a4-a336-4f91-bd93-deed5f45e3f0.jpg?itok=o8hdERMI",
+        "role": "JA21"
+      },
+      {
+        "name": "Daniël van den Berg",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/berg-dj-van-den-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/98f026ef-74d5-4b6e-80ae-4a76e9ec7e81.jpg?itok=cqVwjVoC",
+        "role": "JA21"
+      },
+      {
+        "name": "Annabel Nanninga",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/nanninga-ja21",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a4eb6b9e-dd6c-4cc8-a95c-ccb76860b162.jpg?itok=YYmDtba7",
+        "role": "JA21"
+      }
+    ]
+  },
+  {
+    "name": "Forum voor Democratie",
+    "seats": 7,
+    "leader": "Ralf Dekker",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/08ad50b1-831e-4f50-bed4-97d9d42b0752.jpg?itok=psv6RR64",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/forum_v_democratie.jpg?itok=RZxxrtPX",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/fvd",
+    "full_title": "FVD (Forum voor Democratie)",
+    "website": "https://forumvoordemocratie.nl/",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Gideon van Meijeren",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/meijeren-gfc-van-fvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/557f8bd5-9f66-4bed-9b5f-86746bb0600a.jpg?itok=_XSqnzvZ",
+        "role": "FVD"
+      },
+      {
+        "name": "Pepijn van Houwelingen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/houwelingen-p-van-fvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/64f39510-b420-4b01-8b5e-2b2f2b0aad91.jpg?itok=_39D0Q7i",
+        "role": "FVD"
+      },
+      {
+        "name": "Ralf Dekker",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dekker-rj-fvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/08ad50b1-831e-4f50-bed4-97d9d42b0752.jpg?itok=psv6RR64",
+        "role": "FVD"
+      },
+      {
+        "name": "Peter van Duijvenvoorde",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/duijvenvoorde-p-van-fvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/71a23ba5-15b7-4057-9349-70bf28be58c4.jpg?itok=N2hm-qyJ",
+        "role": "FVD"
+      },
+      {
+        "name": "Tom Russcher",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/russcher-tk-fvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9d29cdee-6873-41d1-b4f5-61940ef11cb7.jpg?itok=Ebvx0xrt",
+        "role": "FVD"
+      },
+      {
+        "name": "Milan Schenk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/schenk-m-fvd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d0ddd0c4-ece0-4b75-85b7-d2396a05f921.jpg?itok=sg1xp8tF",
+        "role": "FVD"
+      },
+      {
+        "name": "Al Biyati",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/biyati-i-al-fvd",
+        "photo": null,
+        "role": "FVD"
+      }
+    ]
+  },
+  {
+    "name": "BoerBurgerBeweging",
+    "seats": 3,
+    "leader": "Henk Vermeer",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/02fab128-a8d3-4010-b936-5500a53caf27.jpg?itok=Ckejyt72",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/2025-06/Logo_BBB_GROEN.png?itok=odJKtMnk",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/bbb",
+    "full_title": "BBB (BoerBurgerBeweging)",
+    "website": "https://boerburgerbeweging.nl/",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Caroline van der Plas",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/plas-cam-van-der-bbb",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b41b2403-9f06-4d55-adc5-b0777373ca7e.jpg?itok=tk2etyWX",
+        "role": "BBB"
+      },
+      {
+        "name": "Henk Vermeer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/vermeer-h-bbb",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/02fab128-a8d3-4010-b936-5500a53caf27.jpg?itok=Ckejyt72",
+        "role": "BBB"
+      },
+      {
+        "name": "Femke Wiersma",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wiersma-fm-bbb",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/ed5b0339-d627-4d4e-8d65-4a9eb88cb6b0.jpg?itok=UO1ONpBs",
+        "role": "BBB"
+      }
+    ]
+  },
+  {
+    "name": "DENK",
+    "seats": 3,
+    "leader": "Stephan van Baarle",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/859e1824-cc60-4304-9293-dca932ebbed2.jpg?itok=7eVIgsl1",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/denk-tk.jpg?itok=fT1Xhjn1",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/denk",
+    "full_title": "DENK (DENK)",
+    "website": "https://denk.nl",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Stephan van Baarle",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/baarle-srt-van-denk",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/859e1824-cc60-4304-9293-dca932ebbed2.jpg?itok=7eVIgsl1",
+        "role": "DENK"
+      },
+      {
+        "name": "Ismail el Abassi",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/abassi-i-el-denk",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/209ce05e-66ee-4999-928c-00f152b40ead.jpg?itok=Zj2sOzV1",
+        "role": "DENK"
+      },
+      {
+        "name": "Doğukan Ergin",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ergin-da-denk",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/02da66c7-029f-4207-a00d-21babf0d3cc6.jpg?itok=YASsAysX",
+        "role": "DENK"
+      }
+    ]
+  },
+  {
+    "name": "Staatkundig Gereformeerde Partij",
+    "seats": 3,
+    "leader": "Chris Stoffer",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/98aa8bde-85b0-49ed-9795-e2eeb206e3b8.jpg?itok=t-_xmN3g",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/logo_sgp_2016.jpg?itok=KOXJF0RH",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/sgp",
+    "full_title": "SGP (Staatkundig Gereformeerde Partij)",
+    "website": "http://www.sgp.nl",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Chris Stoffer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/stoffer-c-sgp",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/98aa8bde-85b0-49ed-9795-e2eeb206e3b8.jpg?itok=t-_xmN3g",
+        "role": "SGP"
+      },
+      {
+        "name": "André Flach",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/flach-aj-sgp",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/2bea63db-715f-401f-b710-e91c7650df0c.jpg?itok=RBbwwHXb",
+        "role": "SGP"
+      },
+      {
+        "name": "Diederik van Dijk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-djh-van-sgp",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/dd85a3cc-916a-4f94-aaed-cb341eb6a036.jpg?itok=jmkMEyPY",
+        "role": "SGP"
+      }
+    ]
+  },
+  {
+    "name": "Partij voor de Dieren",
+    "seats": 3,
+    "leader": "Christine Teunissen",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/7564c685-2691-4796-9159-ebd5df4fdc8d.jpg?itok=aYExN1rk",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/partij_voor_de_dieren.jpg?itok=qqavVr7x",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/partij_voor_de_dieren",
+    "full_title": "PvdD (Partij voor de Dieren)",
+    "website": "http://www.partijvoordedieren.nl",
+    "email": "partijvoordedieren@tweedekamer.nl",
+    "phone": null,
+    "members": [
+      {
+        "name": "Esther Ouwehand",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ouwehand-e-pvdd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/1c16919b-5c3f-486c-9cc7-bdd00e29e9a4.jpg?itok=SBE3WxaJ",
+        "role": "PvdD"
+      },
+      {
+        "name": "Christine Teunissen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/teunissen-c-pvdd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/7564c685-2691-4796-9159-ebd5df4fdc8d.jpg?itok=aYExN1rk",
+        "role": "PvdD"
+      },
+      {
+        "name": "Ines Kostić",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/kostic-i-pvdd",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/9e16daf1-18e6-4563-b371-aa50c31b79f6.jpg?itok=iltGVjIN",
+        "role": "PvdD"
+      }
+    ]
+  },
+  {
+    "name": "ChristenUnie",
+    "seats": 3,
+    "leader": "Mirjam Bikker",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b53f74bf-e57c-4e01-8d65-de2f319f44db.jpg?itok=M8z62tKl",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/field_uploads/logo_christenunie_tcm181-104419.gif?itok=ZPfszbpA",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/christenunie",
+    "full_title": "ChristenUnie (ChristenUnie)",
+    "website": "http://www.christenunie.nl",
+    "email": "christenunie@tweedekamer.nl",
+    "phone": null,
+    "members": [
+      {
+        "name": "Don Ceder",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/ceder-dgm-christenunie",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/7cbb2d95-46b2-4fcb-b129-9505f56e7f07.jpg?itok=5AUB20yj",
+        "role": "ChristenUnie"
+      },
+      {
+        "name": "Pieter Grinwis",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/grinwis-pa-christenunie",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/d38ca3cf-9803-48dc-8592-c67c4430168e.jpg?itok=XQRmhV2B",
+        "role": "ChristenUnie"
+      },
+      {
+        "name": "Mirjam Bikker",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/bikker-mh-christenunie",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b53f74bf-e57c-4e01-8d65-de2f319f44db.jpg?itok=M8z62tKl",
+        "role": "ChristenUnie"
+      }
+    ]
+  },
+  {
+    "name": "Socialistische Partij",
+    "seats": 3,
+    "leader": "Jimmy Dijk",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/990b2d9b-0b83-4dde-ab04-5cd5d8c5c4d3.jpg?itok=sD3-8usj",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/logo_sp.png?itok=nF2E-_Oo",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/sp",
+    "full_title": "SP (Socialistische Partij)",
+    "website": "http://www.sp.nl",
+    "email": "spfractie@tweedekamer.nl",
+    "phone": null,
+    "members": [
+      {
+        "name": "Sandra Beckerman",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/beckerman-sm-sp",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/0ea8e29d-3bfe-4982-8594-9350b527d553.jpg?itok=TvwnYkj9",
+        "role": "SP"
+      },
+      {
+        "name": "Jimmy Dijk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dijk-jp-sp",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/990b2d9b-0b83-4dde-ab04-5cd5d8c5c4d3.jpg?itok=sD3-8usj",
+        "role": "SP"
+      },
+      {
+        "name": "Sarah Dobbe",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dobbe-sem-sp",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/21cc8db0-5084-4e4d-a083-99df36fa6170.jpg?itok=JL4-hYBk",
+        "role": "SP"
+      }
+    ]
+  },
+  {
+    "name": "50PLUS",
+    "seats": 2,
+    "leader": "Jan Struijs",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/21674d1a-d86e-46e4-bff5-7cc3e4c7d270.jpg?itok=SqykR2vm",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/logo_50plus.png?itok=r1aAwo9K",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/50plus",
+    "full_title": "50PLUS (50PLUS)",
+    "website": "http://www.50pluspartij.nl",
+    "email": "r.ramdhan@tweedekamer.nl",
+    "phone": null,
+    "members": [
+      {
+        "name": "Corrie van Brenk",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/brenk-cm-van-50plus",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/b29c0e00-7ac2-4c28-ab4f-8fceb156337b.jpg?itok=Yj-TXU8R",
+        "role": "50PLUS"
+      },
+      {
+        "name": "Jan Struijs",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/struijs-ja-50plus",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/21674d1a-d86e-46e4-bff5-7cc3e4c7d270.jpg?itok=SqykR2vm",
+        "role": "50PLUS"
+      }
+    ]
+  },
+  {
+    "name": "Volt",
+    "seats": 1,
+    "leader": "Laurens Dassen",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a68468b6-51ea-440c-9387-b44ba10ad8b6.jpg?itok=6Hzo0vQX",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/small/public/atoms/images/volt_logo_max37mm1.jpg?itok=Lo6f9s_h",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/volt",
+    "full_title": "Volt (Volt)",
+    "website": "https://voltnederland.org/",
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Laurens Dassen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/dassen-lajm-volt",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/a68468b6-51ea-440c-9387-b44ba10ad8b6.jpg?itok=6Hzo0vQX",
+        "role": "Volt"
+      }
+    ]
+  },
+  {
+    "name": "Groep Markuszower",
+    "seats": 7,
+    "leader": "Gidi Markuszower",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/754f2d87-8990-4b77-8181-54d8df8fa63a.jpg?itok=YGcmNW8e",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/754f2d87-8990-4b77-8181-54d8df8fa63a.jpg?itok=YGcmNW8e",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/groep-markuszower",
+    "full_title": "Groep Markuszower (Groep Markuszower)",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Gidi Markuszower",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/markuszower-g-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/754f2d87-8990-4b77-8181-54d8df8fa63a.jpg?itok=YGcmNW8e",
+        "role": "Groep Markuszower"
+      },
+      {
+        "name": "Hidde Heutink",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/heutink-hd-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/33290394-05f7-44c4-9187-7c6ec6059c27.jpg?itok=lAJbMN3M",
+        "role": "Groep Markuszower"
+      },
+      {
+        "name": "René Claassen",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/claassen-rab-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/510ebeb6-5625-4a9f-9853-36bcd54728e0.jpg?itok=_xHmH-5a",
+        "role": "Groep Markuszower"
+      },
+      {
+        "name": "Nicole Moinat",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/moinat-n-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/5222c31a-b0b0-496b-8f74-55988b1b8dda.jpg?itok=c5y4HKHu",
+        "role": "Groep Markuszower"
+      },
+      {
+        "name": "Annelotte Lammers",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/lammers-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/10c4f889-d7de-48bb-a0b7-9a7125f1fc98.jpg?itok=NXSnGLvy",
+        "role": "Groep Markuszower"
+      },
+      {
+        "name": "Tamara ten Hove",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/hove-t-ten-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/14fbb153-c31c-4ffd-ac58-2e6314388a38.jpg?itok=meGc7CIb",
+        "role": "Groep Markuszower"
+      },
+      {
+        "name": "Shanna Schilder",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/schilder-jmm-groep-markuszower",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/45e9917b-95cc-428c-b8a0-9d50cff58a59.jpg?itok=-6C2J-is",
+        "role": "Groep Markuszower"
+      }
+    ]
+  },
+  {
+    "name": "Lid Keijzer",
+    "seats": 1,
+    "leader": "Mona Keijzer",
+    "leader_role": "Fractievoorzitter",
+    "leader_photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8c5a8186-8f46-4bca-956d-06d4fa521635.jpg?itok=JJlrpD5-",
+    "logo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8c5a8186-8f46-4bca-956d-06d4fa521635.jpg?itok=JJlrpD5-",
+    "detail_url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/lid-keijzer",
+    "full_title": "Lid Keijzer (Lid Keijzer)",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "members": [
+      {
+        "name": "Mona Keijzer",
+        "link": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/keijzer-mcg-lid-keijzer",
+        "photo": "https://www.tweedekamer.nl/sites/default/files/styles/thumbnail/public/tk_external_data_ggm_sync/photos/8c5a8186-8f46-4bca-956d-06d4fa521635.jpg?itok=JJlrpD5-",
+        "role": "Lid Keijzer"
+      }
+    ]
+  }
+]
